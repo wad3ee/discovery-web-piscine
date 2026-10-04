@@ -1,0 +1,4 @@
+1. Created README.md.
+2. Initialized a Git repository with git init.
+3. Added README.md with git add README.md.
+4. Committed README.md with git commit.
